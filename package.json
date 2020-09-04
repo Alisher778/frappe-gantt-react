@@ -1,12 +1,12 @@
 {
-    "name": "frappe-gantt-react-extended",
-    "version": "0.2.4",
+    "name": "frappe-gantt-react-extended-v2",
+    "version": "0.0.1",
     "license": "MIT",
     "main": "./index.js",
     "types": "./typings/main.d.ts",
     "author": {
-        "name": "Mohammed Abdulkereem",
-        "email": "mohammed-io@outlook.com"
+        "name": "Alisher Musurmonov",
+        "email": "alisher.musurmonov89@gmail.com"
     },
     "repository": {
         "type": "git",
