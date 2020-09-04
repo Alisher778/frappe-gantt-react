@@ -28,7 +28,8 @@ export class FrappeGantt extends React.Component<FrappeGanttProps, any> {
 
   state = {
     viewMode: null,
-    tasks: []
+    tasks: [],
+    popup_trigger: 'click'
   };
 
   static getDerivedStateFromProps(nextProps: FrappeGanttProps, state: any) {
@@ -56,7 +57,8 @@ export class FrappeGantt extends React.Component<FrappeGanttProps, any> {
       on_date_change: (task: Task, start: Moment, end: Moment) => {
         this.props.onDateChange!(task, start, end);
         this.props.onTasksChange!(this.props.tasks);
-      }
+      },
+      popup_trigger: this.state.popup_trigger,
     });
 
     if (this._gantt) {
