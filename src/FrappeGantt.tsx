@@ -29,7 +29,7 @@ export class FrappeGantt extends React.Component<FrappeGanttProps, any> {
   state = {
     viewMode: null,
     tasks: [],
-    popup_trigger: 'click'
+    popup_trigger: 'mousemove'
   };
 
   static getDerivedStateFromProps(nextProps: FrappeGanttProps, state: any) {
