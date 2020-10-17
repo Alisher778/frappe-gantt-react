@@ -27,7 +27,7 @@
     ],
     "dependencies": {
         "frappe-gantt": "^0.5.0",
-        "frappe-gantt-extended": "^0.6.0",
+        "frappe-gantt-extended": "^0.7.0",
         "moment": "^2.24.0",
         "react": "^16.8.6",
         "react-dom": "^16.8.6",

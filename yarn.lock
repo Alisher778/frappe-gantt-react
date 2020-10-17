@@ -4816,10 +4816,10 @@ fragment-cache@^0.2.1:
   dependencies:
     map-cache "^0.2.2"
 
-frappe-gantt-extended@^0.6.0:
-  version "0.6.0"
-  resolved "https://registry.yarnpkg.com/frappe-gantt-extended/-/frappe-gantt-extended-0.6.0.tgz#9b9345e59adbe45605921e4b3002a89abfabed69"
-  integrity sha512-OUsxeIPuqJWKqRPTUdTPOFDAnRHkBZFmtagN0S/TrF5z8FWiks6tkOWMAHe3Wc5nESt+KvOVoFeN5sVjX21Yzg==
+frappe-gantt-extended@^0.7.0:
+  version "0.7.0"
+  resolved "https://registry.yarnpkg.com/frappe-gantt-extended/-/frappe-gantt-extended-0.7.0.tgz#edfae8aaa263480108d99a9e69dd5712d2c64cf4"
+  integrity sha512-AdepglxZr5lSbtzHVy7tjSwPactFI1vAUAWkAmVoUFd5fkrDLxcas0MIgRuy3wFY1dE8q37hLKul1zr3YlbVBg==
 
 frappe-gantt@^0.5.0:
   version "0.5.0"
