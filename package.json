@@ -1,6 +1,6 @@
 {
     "name": "frappe-gantt-react-extended-v2",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "license": "MIT",
     "main": "./index.js",
     "types": "./typings/main.d.ts",
